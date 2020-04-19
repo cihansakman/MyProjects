@@ -67,6 +67,11 @@ while(True):
     else:
         sys.stderr.write("Geçerli Bir İşlem Girilmeli")
         sys.stderr.flush()
+    print("""GRAM ALTIN (1)
+DOLAR (2)
+EURO (3)
+STERLİN (4)
+ÇIKIŞ (Q/q))""")
 
 
 
